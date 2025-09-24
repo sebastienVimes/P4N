@@ -12,7 +12,7 @@ Chemin : https://github.com/sebastienVimes/P4N
 - **Fichier** : `statut_current.md`
 - **URL** : https://raw.githubusercontent.com/sebastienVimes/P4N/refs/heads/main/statut_current.md
 
-#### === BIBLE VECTREX ===
+#### === BIBLE ===
 - **Fichier** : `BIBLE_asm.md`
 - **URL** : https://raw.githubusercontent.com/sebastienVimes/P4N/refs/heads/main/BIBLE_asm.md
 
