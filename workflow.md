@@ -6,7 +6,9 @@
 
 Chemin : https://github.com/sebastienVimes/P4N
 
-### Fourniture des documents
+### INSTRUCTION POUR CLAUDE : RÉCUPÉRATION AUTOMATIQUE
+
+**Claude doit IMMÉDIATEMENT récupérer ces 4 fichiers via web_fetch :**
 
 #### === STATUT CURRENT ===
 - **Fichier** : `statut_current.md`
